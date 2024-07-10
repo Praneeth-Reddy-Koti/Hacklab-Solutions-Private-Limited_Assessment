@@ -1,9 +1,0 @@
-The process of estimating the parameters of a camera is called camera calibration.
-This means we have all the information (parameters or coefficients) about the camera required to determine an accurate relationship between a 3D point in the real world and its corresponding 2D projection (pixel) in the image captured by that calibrated camera.
- 
-Write a python script to automatically find the camera calibration parameters using a 6x8 checkerboard pattern.
-Record a video (or share photographs) to show how the calibration setup works.
- 
-You can find the checkerboard pattern here:
- 
-https://raw.githubusercontent.com/MarkHedleyJones/markhedleyjones.github.io/master/media/calibration-checkerboard-collection/Checkerboard-A4-30mm-8x6.pdf
